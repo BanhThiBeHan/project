@@ -1,0 +1,5 @@
+
+use('aaa'); // tendb
+// db.aaa;//tencol
+db.contacts.find();
+db.contacts.aggregate();
